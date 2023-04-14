@@ -10235,11 +10235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kickdrum\\DemoApi\\DemoApi.csproj",
+      "projectUniqueName": "D:\\Kickdrum\\Repo\\DemoAPI\\DemoApi.csproj",
       "projectName": "DemoApi",
-      "projectPath": "D:\\Kickdrum\\DemoApi\\DemoApi.csproj",
+      "projectPath": "D:\\Kickdrum\\Repo\\DemoAPI\\DemoApi.csproj",
       "packagesPath": "C:\\Users\\ammar.mhowwala_infob\\.nuget\\packages\\",
-      "outputPath": "D:\\Kickdrum\\DemoApi\\obj\\",
+      "outputPath": "D:\\Kickdrum\\Repo\\DemoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ammar.mhowwala_infob\\AppData\\Roaming\\NuGet\\NuGet.Config"
